@@ -224,3 +224,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 <!-- 2024-12-12 commit 3 -->
 
 <!-- 2024-12-12 commit 4 -->
+
+<!-- 2024-12-12 commit 5 -->
