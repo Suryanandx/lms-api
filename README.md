@@ -2296,3 +2296,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 <!-- 2025-07-18 commit 6 -->
 
 <!-- 2025-07-18 commit 7 -->
+
+<!-- 2025-07-18 commit 8 -->
