@@ -2402,3 +2402,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 <!-- 2025-08-06 commit 5 -->
 
 <!-- 2025-08-06 commit 6 -->
+
+<!-- 2025-08-06 commit 7 -->
