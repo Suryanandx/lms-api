@@ -3392,3 +3392,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 <!-- 2025-11-09 commit 1 -->
 
 <!-- 2025-11-09 commit 2 -->
+
+<!-- 2025-11-09 commit 3 -->
