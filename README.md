@@ -3628,3 +3628,5 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 <!-- 2025-12-17 commit 1 -->
 
 <!-- 2025-12-17 commit 2 -->
+
+<!-- 2025-12-17 commit 3 -->
